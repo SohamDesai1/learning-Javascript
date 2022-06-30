@@ -1,0 +1,14 @@
+// console.time('time');
+// console.log('Hello World');
+// console.log(true);
+// console.log([1, 2, 3, 4]);
+// console.log({ a: 1, b: 2 });
+// console.table({ a: 1, b: 2 });
+// console.warn('This is a warning');
+// // console.clear(); 
+// console.timeEnd('time');
+console.log("Hello World");
+let b = true;
+console.log(b, typeof b);
+const e = 3;
+console.log(e, typeof e);
